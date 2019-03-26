@@ -1,3 +1,4 @@
+  serializedVersion: 7
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!159 &1
@@ -7,7 +8,7 @@ EditorSettings:
   m_ExternalVersionControlSupport: Visible Meta Files
   m_SerializationMode: 2
   m_LineEndingsForNewScripts: 2
-  m_DefaultBehaviorMode: 1
+  m_DefaultBehaviorMode: 0
   m_SpritePackerMode: 4
   m_SpritePackerPaddingPower: 1
   m_EtcTextureCompressorBehavior: 1
@@ -19,3 +20,4 @@ EditorSettings:
   m_UserGeneratedProjectSuffix: 
   m_CollabEditorSettings:
     inProgressEnabled: 1
+  m_EnableTextureStreamingInPlayMode: 1
